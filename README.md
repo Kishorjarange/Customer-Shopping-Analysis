@@ -20,5 +20,4 @@ This project analyzes customer shopping behavior using Python, SQL, and Power BI
 - Product performance
 - KPI dashboard
 
-## Author
-Kishor Jarange
+
